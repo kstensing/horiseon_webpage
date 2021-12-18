@@ -3,7 +3,7 @@
 
 Welcome to the Horiseon webpage! 
 
-Horison < file:///C:/Users/Stens/Desktop/horiseon_project/urban-octo-telegram/Develop/index.html /> (_add in link once I know where it is deployed_) is a webpage intended to provide information about SEO (search engine optimization. 
+Horison < file:///C:/Users/Stens/Desktop/horiseon_project/urban-octo-telegram/Develop/index.html /> (_add in link once I know where it is deployed_) is a webpage intended to provide information about SEO (search engine optimization). 
 
 
 ## Section 1: Search Engine Optimization
