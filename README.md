@@ -20,17 +20,9 @@ _Add in screenshot of this section._
 
 ## Section 4: Benefits
 
-## Section 2: Online Reputation Management 
-
 _Add in screenshot of this article._
 
-### Final Project: Modules 23–24
 
-As a capstone to the boot camp, you’ll work with a group to build a full-stack application that uses a wide swath of the languages and libraries that you learned throughout the course. We can’t wait to see what you build!
-
-## Up Next
-
-For a closer look at each module, refer to the module overviews to learn:
 
 :mechanic: This page requires additional info
 
