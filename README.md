@@ -30,7 +30,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ```md
-![alt text](C:\Users\Stens\Desktop\horiseon_project\urban-octo-telegram\Develop\assets\images)
+![alt text](Develop/assets/images/Capture.PNG)
 ```
 _This webpage is used to view content related to Search Engine Opitmization._
 
