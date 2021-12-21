@@ -1,9 +1,9 @@
 :mechanic: This page requires additional info
 
 
-# Horison
+# Horiseon
 
-## [Horison](https://kstensing.github.io/horiseon_webpage/) is a webpage intended to provide information about SEO (search engine optimization).
+## [Horiseon](https://kstensing.github.io/horiseon_webpage/) is a webpage intended to provide information about SEO (search engine optimization).
 
 The Horison webpage should load in a web browser at this address: https://kstensing.github.io/horiseon_webpage/
 

@@ -1,42 +1,43 @@
 * {
-    box-sizing: border-box;
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* apply styles to <header> */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
-    display: inline-block;
+header h1 {
+    display: inline;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header .seo {
     color: #d9dcd6;
 }
 
-.header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
+header nav ul li {
+    display: inline;
 }
 
-.header div ul li {
+header ul li {
     display: inline-block;
     margin-left: 25px;
 }
