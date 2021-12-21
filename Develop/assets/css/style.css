@@ -54,8 +54,8 @@ footer h2 {
     font-size: 20px;
 }
 
-/* apply styles to <section> */
-section a {
+/* apply styles to a */
+a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -72,16 +72,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 /* content section style */
@@ -107,6 +97,16 @@ p {
 .main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* benefits article */ 
