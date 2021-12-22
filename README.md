@@ -25,25 +25,18 @@ Click into the above link to access the webpage.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This webpage is used to view content related to Search Engine Optimization. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-<<<<<<< HEAD
-<img alt="Horiseon Landing Page" src="Develop\assets\images\Capture.PNG"
-=======
 ![Horiseon Landing Page](Develop\assets\images\Capture.PNG)
  
->>>>>>> c7f091db328f56874bd4571541c4323acc79874c
 
-_This webpage is used to view content related to Search Engine Opitmization._
 
-## Credits
+### Credits
 
 This code was forked from [Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram/commits?author=Xandromus) at https://github.com/coding-boot-camp/urban-octo-telegram
 
 
-## License
+### License
 
 Open source license: [Copying](https://choosealicense.com/licenses/gpl-3.0/)
 
