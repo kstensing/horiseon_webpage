@@ -27,7 +27,7 @@ Click into the above link to access the webpage.
 
 This webpage is used to view content related to Search Engine Optimization. 
 
-![Horiseon Landing Page](Develop\assets\images\Capture.PNG)
+![Horiseon Landing Page](assets/images/Capture.PNG)
  
 
 
